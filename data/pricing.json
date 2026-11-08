@@ -1,0 +1,16 @@
+{
+  "pro_1m": {
+    "price": 25000,
+    "days": 31
+  },
+  "pro_3m": {
+    "price": 60000,
+    "days": 92
+  },
+  "pro_12m": {
+    "price": 90000,
+    "days": 365
+  },
+  "card": "0000-0000-0000-0000",
+  "holder": "Card Holder"
+}

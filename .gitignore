@@ -1,0 +1,39 @@
+# ===== Private Chat =====
+
+# runtime data (never commit real databases)
+data/*.sqlite
+data/*.sqlite-journal
+data/*.sqlite-wal
+data/*.sqlite-shm
+data/*.db
+data/*.db3
+data/error_log*
+
+# logs
+error_log
+*.log
+
+# test / temporary files
+_test*
+_api_test*
+*.phar
+*.new
+
+# archives & backups
+*.zip
+*.bak
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# local tooling
+node_modules/
+vendor/

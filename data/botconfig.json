@@ -1,0 +1,14 @@
+{
+    "adminIds": [
+        "support"
+    ],
+    "premiumWelcome": "👋 Welcome to Super Private! I am your personal premium assistant. Tap a button below to begin.",
+    "superWelcome": "I'm the Super Bot - your gateway to premium features and exclusive IDs.\n\nTap a button below to get started.",
+    "animateWelcome": "Send me a photo using the attach button and I'll turn it into a live sticker. Tap a style, then forward the result to any chat.",
+    "idPricing": "Premium ID pricing is set by the administrator. Short or common IDs (3-4 letters) cost more. After you submit a request, the admin will reply with the price.",
+    "cardNote": "Transfer to the card shown in the plan, then tap Upload Receipt.",
+    "openaiApiKey": "sk-PASTE-YOUR-KEY-IN-ADMIN-PANEL",
+    "openaiModel": "mimo-hermes",
+    "openaiBaseUrl": "https://your-ai-endpoint.example.com/v1",
+    "aiWelcome": "🤖 Hi, I am PrivateAI — your AI assistant. Ask me anything!"
+}
